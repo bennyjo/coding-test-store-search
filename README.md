@@ -4,10 +4,10 @@ We've decided to roll tails.com out to physical stores using revolutionary new o
 
 ## The task
 
-1: Render the list of stores from the stores.json file in alphabetical order using a server-side rendered web framework (Flask, Laravel, etc.)
-2: Use postcodes.io to get lat/lon for each postcode and add a Google Static Maps thumbnail image for each store location. Clicking the image should take you to the Google Maps page for that result.
-3: Implement a "find nearest store" search feature allowing users to enter their postcode and then using the "Nearest outward code for outward code" postcodes.io API to filter stores to those in nearby outward codes and sort them by decreasing distance
-Bonus #4: Implement #3 as a progressively-enhanced in-page search feature
+1. Render the list of stores from the stores.json file in alphabetical order using a server-side rendered web framework (Flask, Laravel, etc.)
+2. Use postcodes.io to get lat/lon for each postcode and add a Google Static Maps thumbnail image for each store location. Clicking the image should take you to the Google Maps page for that result.
+3. Implement a "find nearest store" search feature allowing users to enter their postcode and then using the "Nearest outward code for outward code" postcodes.io API to filter stores to those in nearby outward codes and sort them by decreasing distance
+4. (BONUS POINTS) Implement #3 as a progressively-enhanced in-page search feature
 
 ## Relevant APIs
 
