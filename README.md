@@ -20,4 +20,4 @@ We've decided to roll tails.com out to physical stores using revolutionary new o
 
 ## Store data JSON
 
-https://pastebin.com/ZG0fSJd4
+Store data is available in the [stores.json](stores.json) file.
