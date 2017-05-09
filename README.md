@@ -11,13 +11,12 @@ We've decided to roll tails.com out to physical stores using revolutionary new o
 
 ## Relevant APIs
 
-Postcodes.io API
-Docs: http://postcodes.io/
+### Postcodes.io API
+* Docs: http://postcodes.io/
 
-Google Static Maps API
-Docs: https://developers.google.com/maps/documentation/static-maps/intro
-Key: AIzaSyDon4-e-bpiSpcNYQX7UmgQlHikkyWa2qE
-
+### Google Static Maps API
+* Docs: https://developers.google.com/maps/documentation/static-maps/intro
+* Key: `AIzaSyDon4-e-bpiSpcNYQX7UmgQlHikkyWa2qE`
 
 ## Store data JSON
 
