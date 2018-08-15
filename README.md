@@ -23,3 +23,11 @@ You should spend no more than 90 minutes on this test. It's not critical you get
 ## Store data JSON
 
 Store data is available in the [stores.json](stores.json) file in this repo.
+
+## Submitting
+Once you're happy with your code, zip it up and email it back to us along with answers to the following questions:
+
+1. What command do we run to start your server?
+2. If you had more time, what improvements would you make if any?
+3. What bits did you find the toughest? What bit are you most proud of? In both cases, why?
+4. What one thing could we do to improve this test?
